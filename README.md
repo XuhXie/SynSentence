@@ -6,3 +6,6 @@
 tag提取：[jieba](https://github.com/fxsjy/jieba)
 
 Cilin: 哈工大同义词库。
+
+### jaccard index
+for text similarity
